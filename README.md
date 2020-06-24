@@ -28,9 +28,7 @@ You'll find it in the 'price_scrapper.py' file.
 
 <i>Step 5: Isolating the results:</i>
 
-Beautiful Soup also has a host of other ways to search, filter and isolate the results you want from the HTML. You can also be more specific, finding an element with a specific class or attribute:
-
-I know this really just scratches the surface of web scraping. And my intention isn’t to go into a ton of detail here. Web scraping is actually pretty easy to get started. But doing it the right way takes a little more time and effort. Also, I’m still fairly new at this, and am by no means an expert on anything, and appreciate any feedback or tips!
+Beautiful Soup also has a host of other ways to search, filter and isolate the results you want from the HTML. I'm fairly new to this and have only scratched the surface of what one could do with BeautifulSoup.
 
 
 
