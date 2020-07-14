@@ -1,5 +1,3 @@
-Webscraping is a method of data mining from web sites that uses software to extract all the information available from the targeted site by simulating human behavior. A script does this much more quickly and efficiently than a human, as it can generate multiple requests per minute.
-
 <i>Step 1: Find the URL you want to scrape.</i>
 In our case, its amazon.com.
 
@@ -27,8 +25,6 @@ and then…
 You'll find it in the 'price_scrapper.py' file.
 
 <i>Step 5: Isolating the results:</i>
-
-Beautiful Soup also has a host of other ways to search, filter and isolate the results you want from the HTML. I'm fairly new to this and have only scratched the surface of what one could do with BeautifulSoup.
 
 
 
